@@ -1,2 +1,2 @@
-# AboutMe
-My Personal repository
+#📖 About Me
+🖥️ Learning Front-end!
